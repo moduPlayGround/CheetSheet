@@ -1,3 +1,5 @@
+
+
 ## CheetSheet
 "모두의 놀이터" 이용안내
 여러분들은 RCV 연구실 학부 연구생으로 지원하신 분들입니다.
@@ -12,6 +14,7 @@
 
 ## SLACK 채널
 - https://moduclubs.slack.com/
+- 채널가입은 ykchoi@sejong.ac.kr 로 본인의 slack 아이디(이메일)을 보내주시면 됩니다.
 
 ## 모두의 놀이터 개설 강좌
 - [DeepLearning-Basic](https://github.com/moduPlayGound/DeepLearning-Basic)

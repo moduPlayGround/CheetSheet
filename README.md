@@ -11,7 +11,7 @@
 
 
 ## SLACK 채널
-- https://rcv-sejong.slack.com/
+- https://moduclubs.slack.com/
 
 ## 모두의 놀이터 개설 강좌
 - [DeepLearning-Basic](https://github.com/moduPlayGound/DeepLearning-Basic)

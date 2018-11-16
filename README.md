@@ -15,11 +15,6 @@
 ## Github Watch 
 - Github 계정을 만드시고, 본 깃에 watch 를 걸어주세요. 그래야 자동으로 새글이 올라오면 알람을 받으실 수 있습니다.
 
-## SLACK 채널
-- https://moduclubs.slack.com/
-- 채널가입은 ykchoi@sejong.ac.kr 로 본인의 slack 아이디(이메일)을 보내주시면 됩니다.  
-
-
 ## 시작은 언제 하나요?
 - 2018년 11월 1일 모놀을 오픈합니다. 🤗
 
